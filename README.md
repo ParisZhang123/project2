@@ -6,10 +6,10 @@ In this project, we are using different features to predict Sydney House Price t
 ![5 Warilla Place](https://user-images.githubusercontent.com/86837854/138535868-cbc8a55e-51be-4c30-9113-ae3a828e436e.jpg)
  
 ---
-##Random Forest Model
+#Random Forest Model
 ---
 We are predicting Sydney House Price trending in Macroeconomic perspective by utilizing Random Forest Model. Features we think would related to Sydney house pricing includes CPI (Consumer Price Index), Interest rate (RBA cash rate), GDP (Gross Domestic Product), and AUD/USD exchange rate. 
 
-##Linear Regression Model
+#Linear Regression Model
 ---
 We are also predicting Sydney House Price based on Microeconomic factors. We believe features such as income level, education level, distance from major employment centre, local crime rate, number and ranking of schools in LGA are main factors effecting house price. 
